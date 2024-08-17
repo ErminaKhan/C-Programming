@@ -5,5 +5,5 @@ int main()
 {
     printf("Hello World"); //used to print the output on the screen
 
-    return 0; //to indicate that the program has zero errors
+    return 0; //to indicate that the program has executed successfully with no errors
 }
